@@ -5,4 +5,4 @@ I am a student of *Computer Science Department* and a *(trainee)* Full Stack Dev
 I have a good problem solving skills *(competitive programming)* and eager to learn new tools and technologies.
 
 
-![Anurag's GitHub stats](https://https://github-readme-stats-git-master-sugapriyan-p-k.vercel.app//api?username=Sugapriyan-P-K&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://https://github-readme-stats-kr5s1m93c-sugapriyan-p-k.vercel.app//api?username=Sugapriyan-P-K&theme=midnight-purple&show_icons=true)
