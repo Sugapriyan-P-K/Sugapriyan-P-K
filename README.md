@@ -6,3 +6,5 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=tokyonight)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
