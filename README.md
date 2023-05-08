@@ -5,9 +5,9 @@ I am a student of *Computer Science Department* and *(beginner)* Full Stack Deve
 I have good problem solving skills *(competitive programming)* and eager to learn new tools and technologies.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=tokyonight)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
 
 ### Skills
 
