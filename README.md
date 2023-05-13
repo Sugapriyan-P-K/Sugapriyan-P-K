@@ -9,6 +9,9 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 ### Skills
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
