@@ -11,6 +11,7 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark)
 
 ### Skills
 
