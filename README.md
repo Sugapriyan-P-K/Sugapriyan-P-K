@@ -4,14 +4,19 @@
 I am a student of *Computer Science Department* and *(beginner)* Full Stack Developer with experience on working virtual internship and personal projects.
 I have good problem solving skills *(competitive programming)* and eager to learn new tools and technologies.
 
+## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10)](https://git.io/streak-stats)
+<hr/>
+
+## Github trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed)](https://github.com/Sugapriyan-P-K/github-profile-trophy)
 
 ### Skills
 
@@ -43,3 +48,5 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 ### For Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugapriyan2003@gmail.com)
+
+<!-- ![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet) -->
