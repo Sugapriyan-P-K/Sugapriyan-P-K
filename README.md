@@ -31,7 +31,7 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  -->
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  -->
 
-<p align="center">
+<p align="center" style="margin:auto">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,canva" />
   </a>
