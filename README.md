@@ -6,7 +6,7 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true" />  
+<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true&card_width=290px&count_private=true&include_all_commits=true" />  
 <img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" />
 </p><br>                
 
