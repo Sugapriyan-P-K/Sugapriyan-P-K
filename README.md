@@ -6,11 +6,15 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true" />
+<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true" align = "left" /> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=400" align="right"/>
+</p>                      <br></br>                                             
+
+<p align="center" style="margin-top:10px;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark" />
 </p>
+
 <hr/>
 
 ## Github trophies
