@@ -6,19 +6,19 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true&card_width=290px&count_private=true&include_all_commits=true" />&nbsp; &nbsp;
-<img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" />
+<img src="https://github-readme-stats-sigma-lemon.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&show_icons=true&card_width=290px&count_private=true&include_all_commits=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
+<img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" alt="Suga's Github Streak"/>
 </p><br>                
 
 <p align="center" style="margin-top:10px;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark" alt="Suga's Github Summary"/>
 </p>
 
 <hr/>
 
 ## Github trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" alt="Suga's Github Trophies"/>
 
 ### Skills
 
@@ -36,7 +36,7 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 
 <p align="center" style="margin:auto">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,canva" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,canva" alt="Skills" />
   </a>
 </p>
 
