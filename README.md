@@ -51,7 +51,7 @@ I have good problem solving skills *(competitive programming)* and eager to lear
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugapriyan2003@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet)
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 To view *My Resume* &nbsp; [click here](https://drive.google.com/file/d/14XTsMx019LobRWTnmqg5yjOoAdCZx7FP/view?usp=sharing)
