@@ -1,7 +1,7 @@
 ### Hi, I'm *Sugapriyan*.
 
 
-I am a student of *Computer Science Department* and Full Stack Developer with experience on working virtual internship and personal projects.
+I am a student of *Computer Science Department*, Full Stack Developer and Software Engineer with experience on working virtual internship and personal projects.
 I have good problem solving skills and eager to learn new tools and technologies.
 
 ## Github Stats
