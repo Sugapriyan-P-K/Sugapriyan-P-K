@@ -1,8 +1,8 @@
 ### Hi, I'm *Sugapriyan*.
 
 
-I am a student of *Computer Science Department* and *(beginner)* Full Stack Developer with experience on working virtual internship and personal projects.
-I have good problem solving skills *(competitive programming)* and eager to learn new tools and technologies.
+I am a student of *Computer Science Department* and Full Stack Developer with experience on working virtual internship and personal projects.
+I have good problem solving skills and eager to learn new tools and technologies.
 
 ## Github Stats
 <p align="center">
