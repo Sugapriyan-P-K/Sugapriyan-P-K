@@ -26,7 +26,7 @@ I have good problem solving skills and eager to learn new tools and technologies
 
 <p align="center" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,canva" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,bash" alt="Skills" />
   </a>
 </p>
 
