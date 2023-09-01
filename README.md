@@ -1,6 +1,4 @@
 ### Hi, I'm *Sugapriyan*.
-
-
 I am a student of *Computer Science Department*, Full Stack Developer and Software Engineer with experience on working virtual internship and personal projects.
 I have good problem solving skills and eager to learn new tools and technologies.
 
@@ -9,11 +7,9 @@ I have good problem solving skills and eager to learn new tools and technologies
 <img src="https://github-readme-stats-sigma-orange.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
 <img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" alt="Suga's Github Streak"/>
 </p><br>                
-
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark" alt="Suga's Github Summary"/>
 </p>
-
 <hr/>
 
 ## Github trophies
@@ -23,10 +19,9 @@ I have good problem solving skills and eager to learn new tools and technologies
 ### Skills
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  -->
 <!-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  -->
-
 <p align="center" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,bash,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,bash,vscode,django,flask" alt="Skills" />
   </a>
 </p>
 
