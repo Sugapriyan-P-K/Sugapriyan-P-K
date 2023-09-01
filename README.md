@@ -27,11 +27,9 @@ I have good problem solving skills and eager to learn new tools and technologies
 
 
 <!-- ### IDE
-
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
- 
 
 ### Competitive Programming
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sugapriyan_P_K03) 
@@ -45,8 +43,8 @@ I have good problem solving skills and eager to learn new tools and technologies
 ### For Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugapriyan2003@gmail.com)
 
-
 <!-- ![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&layout=donut-vertical&size_weight=0&count_weight=1) -->
 
 To view *My Resume* &nbsp; [click here](https://drive.google.com/file/d/14XTsMx019LobRWTnmqg5yjOoAdCZx7FP/view?usp=sharing)
