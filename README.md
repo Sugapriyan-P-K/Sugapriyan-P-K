@@ -26,16 +26,16 @@ I have good problem solving skills and eager to learn new tools and technologies
 
 <p align="center" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,bash" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,java,nodejs,react,c,mongodb,sqlite,python,bash,vscode" alt="Skills" />
   </a>
 </p>
 
 
-### IDE
+<!-- ### IDE
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
  
 
 ### Competitive Programming
