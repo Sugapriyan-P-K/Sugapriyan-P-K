@@ -3,6 +3,7 @@ I am a student of *Computer Science Department*, Full Stack Developer and Softwa
 I have good problem solving skills and eager to learn new tools and technologies.
 
 ## Github Stats
+
 <p align="center">
 <img src="https://github-readme-stats-sigma-orange.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
 <img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" alt="Suga's Github Streak"/>
