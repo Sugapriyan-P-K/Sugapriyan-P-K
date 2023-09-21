@@ -1,4 +1,5 @@
-### Hi, I'm *Sugapriyan*.
+## Hi, I'm *Sugapriyan*.
+
 I am a student of *Computer Science Department*, Full Stack Developer and Software Engineer with experience on working virtual internship and personal projects.
 I have good problem solving skills and eager to learn new tools and technologies.
 
@@ -14,10 +15,12 @@ I have good problem solving skills and eager to learn new tools and technologies
 <hr/>
 
 ## Github trophies
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" alt="Suga's Github Trophies"/>
 
 ### Skills
+
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  -->
 <!-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  -->
 <p align="center" style="margin:auto">
@@ -33,15 +36,18 @@ I have good problem solving skills and eager to learn new tools and technologies
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 ### Competitive Programming
+
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Sugapriyan_P_K03) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sugapriyan-p-k/) 
 <!-- ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) -->
 
 ### Social
+
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/spmsiva936/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugapriyanpk/) 
 
 ### For Contact
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugapriyan2003@gmail.com)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet)
