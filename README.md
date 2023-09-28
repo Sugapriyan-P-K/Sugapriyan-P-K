@@ -14,7 +14,7 @@ I have good problem solving skills and eager to learn new tools and technologies
 </p> -->
 <hr/>
 
-<!--## Github trophies
+## Github trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" alt="Suga's Github Trophies"/>
