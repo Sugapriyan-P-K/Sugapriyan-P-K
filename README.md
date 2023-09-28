@@ -19,7 +19,7 @@ I have good problem solving skills and eager to learn new tools and technologies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" alt="Suga's Github Trophies"/>
 </p>
--->
+
 ### Skills
 
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  -->
