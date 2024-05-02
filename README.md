@@ -56,4 +56,4 @@ I have good problem-solving skills and am eager to learn new tools and technolog
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&layout=donut-vertical&size_weight=0&count_weight=1) -->
 
-To view *My Resume* &nbsp; [click here](https://drive.google.com/file/d/1X0DTcW--OUxRDkl2rnGTeYYgyv8VRkdl/view?usp=sharing)
+To view *My Resume* &nbsp; [click here](https://drive.google.com/file/d/1sv3ed-_DP2N_F09T0pbRlVo-3X6aJP2R/view?usp=sharing)
