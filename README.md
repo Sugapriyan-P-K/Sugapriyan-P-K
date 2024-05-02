@@ -1,7 +1,7 @@
 ## Hi, I'm *Sugapriyan*.
 
 I'm a Full Stack Developer and Software Engineer with experience on working virtual internship and personal projects.
-I have good problem solving skills and eager to learn new tools and technologies.
+I have good problem-solving skills and am eager to learn new tools and technologies.
 
 ## Github Stats
 
