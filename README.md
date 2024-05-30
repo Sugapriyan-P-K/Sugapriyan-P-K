@@ -6,7 +6,7 @@ I have good problem-solving skills and am eager to learn new tools and technolog
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-sugapriyan-p-k.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
+  <img src="https://github-readme-stats-git-master-sugapriyan-p-k.vercel.app/api?username=uiuxmathesh&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
 <!-- <img src="https://github-readme-stats-sigma-orange.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" /> -->
 <!-- <img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" alt="Suga's Github Streak"/> -->
 </p><br>                
