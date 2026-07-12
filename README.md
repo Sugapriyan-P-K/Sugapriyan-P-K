@@ -1,3 +1,4 @@
+
 ## Hi, I'm *Sugapriyan*.
 
 I'm a Full Stack Developer and Software Engineer with experience on working virtual internship and personal projects.
@@ -5,22 +6,22 @@ I have good problem-solving skills and am eager to learn new tools and technolog
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-1s49-lg5zhio7a-sugapriyanpks-projects.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp;
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats-1s49-lg5zhio7a-sugapriyanpks-projects.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" />&nbsp; &nbsp; -->
 <!--   <img src="https://github-readme-stats-git-master-sugapriyan-p-k.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" /> -->
 <!-- <img src="https://github-readme-stats-sigma-orange.vercel.app/api?username=Sugapriyan-P-K&theme=github_dark_dimmed&card_width=290px&include_all_commits=true&count_private=true" alt="Sugapriyan's Github Stats" /> -->
 <!-- <img src="https://streak-stats.demolab.com?user=Sugapriyan-P-K&theme=github-dark-blue&border_radius=10&card_width=350" alt="Suga's Github Streak"/> -->
-</p><br>                
+<!-- </p><br>                 -->
 <!-- <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sugapriyan-P-K&theme=github_dark" alt="Suga's Github Summary"/>
 </p> -->
-<hr/>
+<!-- <hr/>
 
-## Github trophies
+## Github trophies -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sugapriyan-P-K&theme=dark_dimmed&column=-1&margin-w=4" alt="Suga's Github Trophies"/>
-</p>
+</p> -->
 
 ### Skills
 
@@ -56,4 +57,5 @@ I have good problem-solving skills and am eager to learn new tools and technolog
 <!-- ![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K&color=blueviolet)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugapriyan-P-K&hide_progress=false&layout=donut-vertical&size_weight=0&count_weight=1) -->
+<!--![](https://komarev.com/ghpvc/?username=Sugapriyan-P-K) -->
 
